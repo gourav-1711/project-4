@@ -6,6 +6,9 @@
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
 }
+html{
+    scroll-behavior: initial;
+}
 
 .header {
     max-width: 100%;
@@ -19,7 +22,7 @@
     background-color: white;
     z-index: 999;
 }
-.header aside{
+.header .bar{
     display: none;
 }
 .header .menu{

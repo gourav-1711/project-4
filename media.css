@@ -6,7 +6,7 @@
         z-index: 9999;
     }
 
-    .header aside{
+    .header .bar{
         display: block;
         position: relative;
         font-size: 40px;
